@@ -1,0 +1,60 @@
+C204-37@C204-37 MINGW64 ~
+$ git clone https://github.com/titingbalukot069/TeamBOANG
+Cloning into 'TeamBOANG'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (6/6), done.
+
+C204-37@C204-37 MINGW64 ~
+$ cd TeamBOANG
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (main)
+$ git checkout -b guinauli-about-page
+Switched to a new branch 'guinauli-about-page'
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (guinauli-about-page)
+$ git add .
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (guinauli-about-page)
+$ git commit -m "Added about page by Guinauli"
+On branch guinauli-about-page
+nothing to commit, working tree clean
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (guinauli-about-page)
+$ git push origin guinauli-about-page
+info: please complete authentication in your browser...
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote:
+remote: Create a pull request for 'guinauli-about-page' on GitHub by visiting:
+remote:      https://github.com/titingbalukot069/TeamBOANG/pull/new/guinauli-about-page
+remote:
+To https://github.com/titingbalukot069/TeamBOANG
+ * [new branch]      guinauli-about-page -> guinauli-about-page
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (guinauli-about-page)
+$ git push origin guinauli-about-page
+Everything up-to-date
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (guinauli-about-page)
+$ git checkout -b canete-home-page
+Switched to a new branch 'canete-home-page'
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (canete-home-page)
+$ git checkout -b perena-contact-page
+Switched to a new branch 'perena-contact-page'
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (perena-contact-page)
+$ git checkout -b lisama-info-page
+Switched to a new branch 'lisama-info-page'
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (lisama-info-page)
+$ ^C
+
+
+C204-37@C204-37 MINGW64 ~/TeamBOANG (lisama-info-page)
+$
+
+
+
